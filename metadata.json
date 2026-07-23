@@ -1,0 +1,6 @@
+{
+  "name": "FinanceBANK - Asistente de Banco Digital",
+  "description": "Agente de Inteligencia Artificial para atención a clientes de Banco Digital y consultas de políticas, límites y tarifas",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
